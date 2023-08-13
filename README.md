@@ -1,6 +1,6 @@
 [![MasterHead](https://marketplace.canva.com/EAE9zK-J3RY/1/0/1600w/canva-grey-white-minimalist-twitter-banner-A7bQXQi71qM.jpg)](https://github.com/mekkkwiz)
 <h1 align="center">Hi 👋, I'm Mek Wisarut</h1>
-<h3 align="center">A passionate Fullsatck developer from Thailand</h3>
+<h3 align="center">A Fullsatck developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekkkwiz&label=Profile%20views&color=0e75b6&style=flat" alt="mekkkwiz" /> </p>
