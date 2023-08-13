@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekkkwiz&label=Profile%20views&color=0e75b6&style=flat" alt="mekkkwiz" /> </p>
 
-- 🔭 I’m currently working on [making chatbot with dialogflow and Next.Js](https://github.com/mekkkwiz/final-project-app)
+- 🔭 I’m currently working on making E-commerce app
 
-- 🌱 I’m currently learning **dialogflow, Flutterflow, Next.Js**
+- 🌱 I’m currently learning **flutter, Flutterflow, Next.Js, System design**
 
-- 💬 Ask me about **Flutterflow**
+- 💬 Ask me about **Flutter, Flutterflow**
 
-- 📫 How to reach me **mek.wisarut.ti@gmail.com**
+- 📫 How to reach me **witsarut.ti@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
