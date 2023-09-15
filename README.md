@@ -1,4 +1,3 @@
-[![MasterHead](https://marketplace.canva.com/EAE9zK-J3RY/1/0/1600w/canva-grey-white-minimalist-twitter-banner-A7bQXQi71qM.jpg)](https://github.com/mekkkwiz)
 <h1 align="center">Hi 👋, I'm Mek Wisarut</h1>
 <h3 align="center">A Fullsatck developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
@@ -13,11 +12,9 @@
 
 - 📫 How to reach me **witsarut.ti@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wisarut tipbung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wisarut tipbung" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mek-witsarut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wisarut tipbung" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mek wisarut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mek wisarut" height="30" width="40" /></a>
 <a href="https://fb.com/mek wisarut tipbung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mek wisarut tipbung" height="30" width="40" /></a>
 <a href="https://instagram.com/mekkkwiz.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mekkkwiz.me" height="30" width="40" /></a>
